@@ -1,3 +1,3 @@
-# TP FINAL 2023 SINTAXIS Y SEMANTICA DE LOS LENGUAJES UTN 
+# TP FINAL 2023 SSL UTN 
 
-Compilador de Micro
+Compilador de Micro para la materia Sintaxis y Semántica de los Lenguajes (SSL)
